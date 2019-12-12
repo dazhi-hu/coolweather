@@ -16,7 +16,6 @@
         android:layout_centerInParent="true"
         android:textColor="#fff"
         android:textSize="20sp"/>
-
     <Button
         android:id="@+id/back_button"
         android:layout_width="25dp"

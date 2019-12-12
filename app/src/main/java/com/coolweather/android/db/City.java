@@ -24,7 +24,7 @@ public void setCityName(String cityName)
     this.cityName=cityName;
 }
 public int getCityCode(){
-    return cityCode=cityCode;
+    return cityCode;
 }
 public void setCityCode(int cityCode){
     this.cityCode=cityCode;
